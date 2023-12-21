@@ -6,7 +6,7 @@ April 2022
 
 ## Project Summary
 
-### Project Overview:
+### Overview:
 
 - Implemented the Fused Lasso model for optimizing contract negotiation in procurement.
 - Inspired by Tibshirani and Saunders' article on "Sparsity and Smoothness via the Fused Lasso."
