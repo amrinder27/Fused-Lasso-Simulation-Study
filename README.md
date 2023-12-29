@@ -8,7 +8,7 @@ April 2022
 
 ### Overview:
 
-- Implemented the Fused Lasso model for optimizing contract negotiation in procurement.
+- Implemented the Fused Lasso model for optimizing regression models.
 - Inspired by Tibshirani and Saunders' article on "Sparsity and Smoothness via the Fused Lasso."
 - Addressed the limitations of Lasso by introducing the Fused Lasso, designed for features with meaningful ordering.
 
